@@ -99,6 +99,7 @@ The following fields are used to store vehicle details:
 ## Frameworks and Libraries Used
 - **Laravel** for the backend.
 - **React Native** for the mobile app.
+- **Blade**: Laravel's templating engine for dynamic frontend rendering.
 - **Bootstrap** and **CSS** for frontend styling.
 - **Endroid QR Code** for QR code generation.
 - **Laravel UI** for authentication scaffolding.
